@@ -2,4 +2,4 @@
 
 https://github.com/dsalice/onlineshop.git
 
-위 상품 등록 시스템의 DB 연결
+onlineshop에서 상품 등록 시 DB(MySQL)과 연동
